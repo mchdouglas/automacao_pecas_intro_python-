@@ -1,4 +1,4 @@
-# Parte Teórica — Análise e Discussão (1,5 pt)
+# Parte Teórica — Análise e Discussão 
 
 ## Contexto do desafio
 A automação em linhas de montagem reduz **atrasos, erros de conferência** e **custos operacionais**. Com regras simples de qualidade e uma lógica de armazenamento previsível, é possível **padronizar a inspeção** e gerar relatórios mais confiáveis para decisões rápidas.
